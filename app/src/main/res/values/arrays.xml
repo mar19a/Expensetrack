@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Category">
+        <item>Food</item>
+        <item>Entertainment</item>
+        <item>Housing</item>
+        <item>Utilities</item>
+        <item>Fuel</item>
+        <item>Automotive</item>
+        <item>Misc</item>
+    </string-array>
+
+    <string-array name="Status">
+        <item>New</item>
+        <item>In Progress</item>
+        <item>Reimbursed</item>
+    </string-array>
+</resources>

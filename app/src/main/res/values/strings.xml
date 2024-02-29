@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="info">Info</string>
+    <string name="logout">Logout</string>
+
+    <string name="to_be_reimbursed">Pending Reimbursed\n%1$s</string>
+    <string name="filters">Filters</string>
+
+    <string name="filter">Filter</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="category">Category</string>
+    <string name="status">Status</string>
+    <string name="clear">Clear</string>
+
+    <string name="total">Total</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="date">Date</string>
+    <string name="comment">Comment</string>
+    <string name="delete">Delete</string>
+    <string name="select_receipt">Select receipt</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="edit_expense">Edit Expense</string>
+
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="job_description">Job Description</string>
+    <string name="department">Department</string>
+    <string name="location">Location</string>
+</resources>
